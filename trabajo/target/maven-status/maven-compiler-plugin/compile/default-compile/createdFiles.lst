@@ -1,0 +1,8 @@
+com\example\trabajo\dao\UsuarioDaoImp.class
+com\example\trabajo\utils\JWTUtil.class
+com\example\trabajo\controller\AuthController.class
+com\example\trabajo\dao\UsuarioDao.class
+com\example\trabajo\controller\UsuarioController.class
+com\example\trabajo\ServletInitializer.class
+com\example\trabajo\models\Usuario.class
+com\example\trabajo\TrabajoApplication.class
